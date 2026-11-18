@@ -1,0 +1,3 @@
+[submodule "projects/stylebrella"]
+	path = projects/stylebrella
+	url = git@github.com:UmbrellaLeaf5/stylebrella.git
